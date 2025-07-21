@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front End in App Development<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Flutter<br>💬 Ask me about DSA
+🔭 I’m currently working on Full Stack in App Development <br>🌱 I’m currently learning Flutter and Data Structures and Algorithms<br>💬 Ask me about DSA
 
 
 ## 🌐 Socials:
