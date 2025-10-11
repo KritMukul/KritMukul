@@ -1,3 +1,5 @@
+![black_hole]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGpycG5tNWh3Zzl0MGwxYzRmbGo3ZHdoNzFwMnQwOTQ5dnMycmdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif))
+
 # 💫 About Me:
 🔭 I’m currently working on Full Stack in App Development <br>🌱 I’m currently learning Flutter and Data Structures and Algorithms<br>💬 Ask me about DSA
 
