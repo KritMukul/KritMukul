@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack in App Development <br>🌱 I’m currently learning Flutter and Data Structures and Algorithms<br>💬 Ask me about DSA
+🔭 I’m currently working on Flutter <br>🌱 I’m currently learning Deep Learning and Data Structures and Algorithms<br>
 
 
 ## 🌐 Socials:
